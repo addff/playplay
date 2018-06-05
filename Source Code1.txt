@@ -6,6 +6,5 @@
 int main()
 {
 //put kau punya sini
-//try print sini dulu
 	return 0;
 }
