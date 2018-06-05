@@ -5,6 +5,6 @@
 
 int main()
 {
-//put kau punya sini
+printf("hah aku punya ke kau punya?");
 	return 0;
 }
