@@ -1,0 +1,10 @@
+//katakan C program
+
+#include <stdlib.h>
+#include <stdio.h>
+
+int main()
+{
+//put kau punya sini
+	return 0;
+}
